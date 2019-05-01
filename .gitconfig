@@ -1,0 +1,11 @@
+[user]
+	name = pecorium
+	email = pecorium@gmail.com
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[ghq]
+	root = ~/Develop/src
+[url "git@github.com:"]
+    InsteadOf = https://github.com/
